@@ -78,7 +78,7 @@
     <repository>
       <id>mbhd-maven-release</id>
       <url>https://raw.github.com/keepkey/mbhd-maven/master/releases</url>
-      <releases />
+      <releases/>
     </repository>
     <repository>
       <id>mbhd-maven-snapshot</id>
@@ -356,7 +356,7 @@
     <dependency>
       <groupId>org.bitcoinj</groupId>
       <artifactId>bitcoinj-core</artifactId>
-      <version>0.13.3-alice-0.2.1</version>
+      <version>0.16.3</version>
     </dependency>
 
     <!-- BRIT Core for managing income -->
