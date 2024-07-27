@@ -20,7 +20,7 @@
 
     <!-- Library versions with multiple modules -->
     <xchange.version>2.1.0</xchange.version>
-    <jackson.version>2.3.2</jackson.version>
+    <jackson.version>2.15.0</jackson.version>
     <findbugs.version>3.0.0</findbugs.version>
     <multibit-hardware.version>0.8.1</multibit-hardware.version>
 
@@ -78,7 +78,7 @@
     <repository>
       <id>mbhd-maven-release</id>
       <url>https://raw.github.com/keepkey/mbhd-maven/master/releases</url>
-      <releases />
+      <releases/>
     </repository>
     <repository>
       <id>mbhd-maven-snapshot</id>
